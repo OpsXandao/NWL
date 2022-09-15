@@ -1,13 +1,18 @@
 # NWL-eSports
 
-Projeto realizado num bootcamp dirigido pela Rocketseat.
+🟩 Projeto realizado num Bootcamp dirigido pela Rocketseat.
+
+🟨 Proyecto realizado en un Bootcamp de Rocketseat.
+
+🟥 Project carried out at the Bootcamp run by Rocketseat.
+
 
 # Ícones
 
-•	📦 nova funcionalidade
+•	📦 Nova funcionalidade/ New functionality
 
-•	🆙 atualização
+•	🆙 Atualização / Update
 
-•	⚠️ correção de bug
+•	⚠️ Correção de bug/ Bug correction
 
 •	🏁 release
