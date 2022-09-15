@@ -1,10 +1,10 @@
 # NWL-eSports
 
-🟩 Projeto realizado num Bootcamp dirigido pela Rocketseat.
+🟩 Projeto realizado num Bootcamp dirigido pela [Rocketseat](https://www.rocketseat.com.br/).
 
-🟨 Proyecto realizado en un Bootcamp de Rocketseat.
+🟨 Proyecto realizado en un Bootcamp de [Rocketseat](https://www.rocketseat.com.br/).
 
-🟥 Project carried out at the Bootcamp run by Rocketseat.
+🟥 Project carried out at the Bootcamp run by [Rocketseat](https://www.rocketseat.com.br/).
 
 
 # Ícones
