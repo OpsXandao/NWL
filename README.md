@@ -2,7 +2,7 @@
 
 ![preview](.github/preview.png)
 
-👀 [>>>>>>>>>> Click here to give a look <<<<<<<<<<](https://opsxandao.github.io/NWL/)
+[>>>>>>>>>> Click here to give a look <<<<<<<<<<](https://opsxandao.github.io/NWL/)
 
 ## Sobre o projeto/ About the project
 
