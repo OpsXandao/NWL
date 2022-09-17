@@ -12,7 +12,7 @@
 
 🟥 Project carried out at the Bootcamp run by [Rocketseat](https://www.rocketseat.com.br/).
 
-## Feito usando/ Builded using
+## Feito usando/ Built using
 
 •	📄 HTML
 
