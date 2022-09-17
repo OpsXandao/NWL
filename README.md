@@ -2,7 +2,9 @@
 
 ![preview](.github/preview.png)
 
-👀 [Click here to start](https://opsxandao.github.io/NWL/)
+👀 [>>>>>>>>>> Click here to give a look <<<<<<<<<<](https://opsxandao.github.io/NWL/)
+
+## Sobre o projeto/ About the project
 
 🟩 Projeto realizado num Bootcamp dirigido pela [Rocketseat](https://www.rocketseat.com.br/).
 
@@ -10,7 +12,7 @@
 
 🟥 Project carried out at the Bootcamp run by [Rocketseat](https://www.rocketseat.com.br/).
 
-## Builded using ⚒️
+## Feito usando/ Builded using
 
 •	📄 HTML
 
@@ -18,7 +20,7 @@
 
 •	🧶 Git & Git Hub
 
-## Ícones
+## Ícones/ Icons
 
 •	📦 Nova funcionalidade/ New functionality
 
